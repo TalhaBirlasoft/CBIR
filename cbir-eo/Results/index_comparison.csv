@@ -1,5 +1,0 @@
-index,P@10,mAP@1000,ms/query,top10 overlap,bytes/vector,recall@100 vs exact
-Flat (exact),0.931,0.5265,1.26,,10240,1.0
-HNSW,0.931,0.5436,1.4,1.0,10240,0.9999
-IVF-PQ,0.9106,0.5737,0.52,0.7018,64,0.7863
-Binary hash (centered),0.8868,0.4007,0.7,0.5309,320,0.4991
